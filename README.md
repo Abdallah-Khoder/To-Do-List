@@ -9,12 +9,15 @@ A simple and efficient task management app to organize daily activities.
 - JavaScript
 
 ## Features
-- Add / delete tasks
+- Add and delete tasks
 - Mark tasks as completed
 - Clean and responsive UI
 
 ## Use Case
-Great for productivity and daily task tracking .
+Great for productivity and daily task tracking.
 
-## Live Demo 
+## Live Demo
 https://abdallah-khoder.github.io/To-Do-List/
+
+## Note
+This app uses localStorage to save tasks in the browser.
